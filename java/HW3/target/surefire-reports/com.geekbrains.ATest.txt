@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.geekbrains.ATest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0 s <<< FAILURE! - in com.geekbrains.ATest
+shouldAnswerWithTrue1(com.geekbrains.ATest)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError
+	at com.geekbrains.ATest.shouldAnswerWithTrue1(ATest.java:26)
+
